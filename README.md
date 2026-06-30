@@ -135,7 +135,7 @@ I'm a Full Stack Developer focused on building scalable web applications and RES
 
 </p>
 
-Email: [your@email.com](mailto:your@email.com)
+Email: [ugorenkoviktoria@gmail.com](mailto:your@email.com)
 
 ---
 
