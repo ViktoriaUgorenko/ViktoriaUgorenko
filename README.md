@@ -1,152 +1,88 @@
-# 👋 Hi, I'm Viktoria Ugorenko
+<div align="center">
 
-### Full Stack Developer | Node.js | TypeScript | React
+# ✦ Viktoria Ugorenko ✦  
+### Full Stack Developer (Node.js • TypeScript • React)
 
-I'm a Full Stack Developer focused on building scalable web applications and REST APIs. I enjoy designing clean architectures, writing maintainable code, and learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6FA4FC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+TypeScript+%7C+React;System+Design+Enthusiast;Backend+Focused+Engineer" />
 
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,nestjs,express,prisma,mongodb,postgres,mysql,redis,docker,git,github,vscode,linux,html,css,tailwind" />
-</p>
+</div>
 
 ---
 
-## 💻 Backend
+## 🧠 About Me
 
-* Node.js
-* TypeScript
-* JavaScript (ES6+)
-* NestJS
-* Express.js
-* REST API
-* JWT Authentication
-* WebSockets
-* Prisma ORM
-* SQL & NoSQL databases
+> I build scalable web applications, design clean backend architectures and enjoy turning complex problems into simple systems.
+
+- ⚙️ Focus: Backend-heavy Full Stack Development  
+- 🧩 Strong interest: system design & API architecture  
+- 🚀 Goal: build high-load production-ready systems  
+- 📍 Stack: Node.js ecosystem + modern frontend  
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> *Always learning, always iterating.*
 
 ---
 
-## 🎨 Frontend
+## ⚡ Tech Stack
 
-* React
-* Next.js
-* HTML5
-* CSS3
-* Tailwind CSS
-* Responsive Design
-* Axios
-* React Router
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,nestjs,express,prisma" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,linux,github" />
+
+</div>
 
 ---
 
-## 🗄 Databases
+## 🧩 Core Expertise
 
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
+### Backend Engineering
+- REST / API design  
+- Authentication (JWT, OAuth basics)  
+- Microservice architecture (learning / building)  
+- Database design (SQL + NoSQL)  
+- WebSockets / real-time systems  
+- Prisma / ORM layer design  
 
----
+### Frontend Engineering
+- React + Next.js architecture  
+- Component-driven UI design  
+- State management patterns  
+- Responsive UI systems  
+- API integration layers  
 
-## ⚙️ DevOps & Tools
-
-* Docker
-* Git
-* GitHub
-* Linux
-* VS Code
-* Postman
-* npm
-* Vite
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+### DevOps Basics
+- Dockerized environments  
+- Linux workflows  
+- CI/CD fundamentals  
+- Git-based development flow  
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-## 📌 Featured Projects
-
-### 🚀 Full Stack Applications
-
-* Authentication System
-* E-commerce Platform
-* Task Manager
-* Chat Application
-* REST API
-* Admin Dashboard
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🐍 Contribution Snake
 
-* Microservices
-* Kubernetes
-* CI/CD
-* GraphQL
-* AWS
-* System Design
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
-## 🎯 Goals
-
-* Build scalable backend systems
-* Improve cloud and DevOps skills
-* Contribute to Open Source
-* Learn distributed architectures
+</div>
 
 ---
 
-## 📫 Connect with Me
+## ✨ Closing
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://t.me/your_telegram">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-</p>
-
-Email: [ugorenkoviktoria@gmail.com](mailto:your@email.com)
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=0e75b6)
-
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+</div>
